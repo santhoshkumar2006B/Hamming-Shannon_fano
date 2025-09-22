@@ -50,7 +50,7 @@ print(f"Variance is : {var}")am
 ```
 # Output
 ```
-<img width="798" height="497" alt="image" src="https://github.com/user-attachments/assets/b7657c31-80ad-4c9a-b10e-61b9ad9126df" />
+<img width="779" height="498" alt="image" src="https://github.com/user-attachments/assets/29a50bc7-6e3a-49d8-89a9-50492fc6437b" />
 
 ``` 
 # Results: For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25 Average Codeword Length is : 2.625 Entropy is : 2.625 Efficiency is : 100.0 % Redudancy is : 0.0 Variance is : 0.484

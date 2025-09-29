@@ -48,9 +48,15 @@ print(f"Efficiency is : {eff*100} %")
 print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")am 
 ```
+Calculation:
+
+<img width="720" height="1083" alt="image" src="https://github.com/user-attachments/assets/59a65040-bf68-4c90-bafe-953361b4fe18" />
+<img width="683" height="1113" alt="image" src="https://github.com/user-attachments/assets/a278bc24-e2a7-4b2f-96ef-ea4892054d47" />
+
 # Output
-<img width="779" height="498" alt="image" src="https://github.com/user-attachments/assets/29a50bc7-6e3a-49d8-89a9-50492fc6437b" />
-```
+<img width="548" height="430" alt="image" src="https://github.com/user-attachments/assets/f42980f2-a9ae-4ca5-bc88-31d375b232b4" />
+
+
 # Results:
 For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25 Average Codeword Length is : 2.625 Entropy is : 2.625 Efficiency is : 100.0 % Redudancy is : 0.0 Variance is : 0.484
 
